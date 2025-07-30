@@ -1,5 +1,5 @@
 - 👋 Olá! Me chamo Anderson e sou desenvolvedor em formação com foco em desenvolvimento Web Full Stack. Tenho experiência prática com JavaScript, ReactJS, Node.js, Express, Koa, Java, MySQL, além de familiaridade com Tailwind, Bootstrap e Git.
-- 💻 Atualmente trabalho com suporte técnico na Secullum Software, onde atuo na análise de problemas em sistemas, comunicação com dispositivos (controle de ponto e acesso), testes e correções em bancos de dados SQL Server e Access, além de lidar com cálculos de jornada e NF-e.
+- 💻 Atualmente trabalho com suporte técnico na Secullum Software, onde atuo na análise de problemas em sistemas, comunicação com dispositivos (controle de ponto e acesso), testes e correções em bancos de dados SQL Server e Access, além de lidar com cálculos de jornada.
 - 🚀 Estudante de Desenvolvimento Web no CIMOL (ETEML) e aluno do curso Full Stack JavaScript na Codar.me.
 - 🛠️ Apaixonado por tecnologia, resolução de problemas e por aprender constantemente. Aqui no GitHub compartilho projetos, estudos e experimentos técnicos.
 - 📫Entre em contato pelo email andermateus8@gmail.com.
