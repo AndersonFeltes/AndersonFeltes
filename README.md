@@ -1,8 +1,21 @@
-- 👋 Olá! Me chamo Anderson e sou desenvolvedor em formação com foco em desenvolvimento Web Full Stack. Tenho experiência prática com JavaScript, ReactJS, Node.js, Express, Koa, Java, MySQL, além de familiaridade com Tailwind, Bootstrap e Git.
-- 💻 Atualmente trabalho com suporte técnico na Secullum Software, onde atuo na análise de problemas em sistemas, comunicação com dispositivos (controle de ponto e acesso), testes e correções em bancos de dados SQL Server e Access, além de lidar com cálculos de jornada.
-- 🚀 Estudante de Desenvolvimento Web no CIMOL (ETEML).
-- 🛠️ Apaixonado por tecnologia, resolução de problemas e por aprender constantemente. Aqui no GitHub compartilho projetos, estudos e experimentos técnicos.
-- 📫Entre em contato pelo email andermateus8@gmail.com.
+👋 Olá! Me chamo Anderson Mateus Feltes e sou Desenvolvedor de Software Júnior, com experiência prática em desenvolvimento Web e atuação em projeto internacional.
+
+💻 Atualmente trabalho como desenvolvedor em uma plataforma SaaS com modelo de assinaturas, atuando no desenvolvimento e manutenção de funcionalidades, correção de bugs em produção e integração entre frontend e backend, utilizando **TypeScript** e **C# (.NET)**.
+
+🛠️ Possuo também sólida experiência em suporte técnico a sistemas complexos, o que fortaleceu minhas habilidades de análise, diagnóstico de problemas e entendimento de regras de negócio, especialmente em ambientes de produção.
+
+🚀 Tecnologias com as quais já trabalhei:
+- **Frontend:** JavaScript, TypeScript, React, Tailwind CSS, Bootstrap  
+- **Backend:** C# (.NET), Node.js, Express  
+- **Banco de Dados:** SQL Server, MySQL, Microsoft Access  
+- **Ferramentas:** Git, GitHub  
+
+📚 Formação em andamento em **Técnico em Informática pelo CIMOL (ETEML)**.
+
+🧠 Sou movido por aprendizado contínuo, resolução de problemas e construção de soluções bem estruturadas. Aqui no GitHub compartilho projetos, estudos e experimentos técnicos relacionados ao meu desenvolvimento profissional.
+
+📫 Entre em contato: **andermateus8@gmail.com**
+
 - ##
 <div align="center">
   <a href="https://github.com/AndersonFeltes">
