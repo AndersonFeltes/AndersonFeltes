@@ -1,44 +1,84 @@
-👋 Olá! Me chamo Anderson Mateus Feltes e sou Desenvolvedor de Software Júnior, com experiência prática em desenvolvimento Web e atuação em projeto internacional.
+# 👋 Olá! Eu sou Anderson Mateus Feltes
 
-💻 Atualmente trabalho como desenvolvedor em uma plataforma SaaS com modelo de assinaturas, atuando no desenvolvimento e manutenção de funcionalidades, correção de bugs em produção e integração entre frontend e backend, utilizando **TypeScript** e **C# (.NET)**.
+🎯 **Desenvolvedor de Software Júnior** com experiência prática em desenvolvimento web e atuação em projeto internacional.
 
-🛠️ Possuo também sólida experiência em suporte técnico a sistemas complexos, o que fortaleceu minhas habilidades de análise, diagnóstico de problemas e entendimento de regras de negócio, especialmente em ambientes de produção.
+💻 Atualmente atuo no desenvolvimento de uma plataforma **SaaS com modelo de assinaturas**, contribuindo com:
+- desenvolvimento e manutenção de funcionalidades
+- correção de bugs em produção
+- melhorias contínuas e integrações
 
-🚀 Tecnologias com as quais já trabalhei:
-- **Frontend:** JavaScript, TypeScript, React, Tailwind CSS, Bootstrap  
-- **Backend:** C# (.NET), Node.js, Express  
-- **Banco de Dados:** SQL Server, MySQL, Microsoft Access  
-- **Ferramentas:** Git, GitHub  
+🛠️ Também tenho sólida experiência em suporte técnico a sistemas complexos, o que fortaleceu minhas habilidades de análise, diagnóstico e entendimento de regras de negócio.
 
-📚 Formação em andamento em **Técnico em Informática pelo CIMOL (ETEML)**.
+---
 
-🧠 Sou movido por aprendizado contínuo, resolução de problemas e construção de soluções bem estruturadas. Aqui no GitHub compartilho projetos, estudos e experimentos técnicos relacionados ao meu desenvolvimento profissional.
+## 🚀 Tecnologias e Ferramentas
 
-📫 Entre em contato: **andermateus8@gmail.com**
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- ##
+### Backend
+![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📚 Formação
+
+🎓 Técnico em Informática em andamento pelo **CIMOL (ETEML)**.
+
+---
+
+## 📊 Estatísticas do GitHub
+
 <div align="center">
   <a href="https://github.com/AndersonFeltes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonFeltes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonFeltes&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
- <br/>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ander-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Ander-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Ander-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img aling="center" alt="Ander-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/ >
-  <img aling="center" alt="Ander-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img aling="center" alt="Ander-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=AndersonFeltes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800"
+      alt="GitHub stats do Anderson Feltes"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonFeltes&layout=compact&langs_count=8&theme=github_dark&cache_seconds=1800"
+      alt="Linguagens mais usadas por Anderson Feltes"
+    />
+  </a>
 </div>
 
-<br/>  
+---
+
+## 🧠 Sobre mim
+
+Sou movido por aprendizado contínuo, resolução de problemas e construção de soluções bem estruturadas.  
+Aqui no GitHub compartilho projetos, estudos e experimentos técnicos relacionados ao desenvolvimento de software.
+
+---
+
+## 📫 Contato
 
 <div>
-  <a href="https://instagram.com/feltes_anderson7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "andermateus8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anderson-feltes-5370a3213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="mailto:andermateus8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/anderson-feltes-5370a3213" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/feltes_anderson7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
