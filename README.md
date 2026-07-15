@@ -46,14 +46,18 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=AndersonFeltes&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndersonFeltes&theme=github_dark" alt="GitHub Stats" />
-
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndersonFeltes&theme=github_dark" alt="Repos por linguagem" />
-
+  <img
+    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com?user=AndersonFeltes&theme=github-dark&hide_border=true"
+    alt="GitHub Streak de Anderson Feltes"
+  />
 </div>
+
+<p align="center">
+  <a href="https://github.com/AndersonFeltes?tab=repositories">📁 Ver meus repositórios</a> •
+  <a href="https://github.com/AndersonFeltes?tab=stars">⭐ Ver projetos com estrelas</a> •
+  <a href="https://github.com/AndersonFeltes">👤 Ver perfil completo</a>
+</p>
 
 ---
 
