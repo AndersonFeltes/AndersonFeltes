@@ -46,18 +46,13 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/AndersonFeltes">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=AndersonFeltes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800"
-      alt="GitHub stats do Anderson Feltes"
-    />
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonFeltes&layout=compact&langs_count=8&theme=github_dark&cache_seconds=1800"
-      alt="Linguagens mais usadas por Anderson Feltes"
-    />
-  </a>
+
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=AndersonFeltes&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndersonFeltes&theme=github_dark" alt="GitHub Stats" />
+
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndersonFeltes&theme=github_dark" alt="Repos por linguagem" />
+
 </div>
 
 ---
