@@ -1,13 +1,19 @@
 # 👋 Olá! Eu sou Anderson Mateus Feltes
 
-🎯 **Desenvolvedor de Software Júnior** com experiência prática em desenvolvimento web e atuação em projeto internacional.
+🎯 **Desenvolvedor de Software Júnior** com experiência prática em desenvolvimento web, suporte técnico e soluções com inteligência artificial.
 
-💻 Atualmente atuo no desenvolvimento de uma plataforma **SaaS com modelo de assinaturas**, contribuindo com:
-- desenvolvimento e manutenção de funcionalidades
-- correção de bugs em produção
-- melhorias contínuas e integrações
+💻 Atualmente atuo em uma empresa focada em **IA**, contribuindo com:
+- desenvolvimento de **agentes de IA**
+- integrações com serviços e ferramentas de IA
+- criação de **automações e fluxos inteligentes** com foco em eficiência operacional
+- desenvolvimento de **software sob medida**
 
 🛠️ Também tenho sólida experiência em suporte técnico a sistemas complexos, o que fortaleceu minhas habilidades de análise, diagnóstico e entendimento de regras de negócio.
+
+🖥️ Além do desenvolvimento, também atuo com:
+- **instalação e verificação de servidores**
+- configurações de ambiente para publicação de sistemas
+- uso de **Docker** em instalações e ambientes de servidor
 
 ---
 
@@ -26,14 +32,20 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
+### IA, Automações e Infraestrutura
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ### Banco de Dados
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white)
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -64,7 +76,7 @@
 ## 🧠 Sobre mim
 
 Sou movido por aprendizado contínuo, resolução de problemas e construção de soluções bem estruturadas.  
-Aqui no GitHub compartilho projetos, estudos e experimentos técnicos relacionados ao desenvolvimento de software.
+Aqui no GitHub compartilho projetos, estudos e experimentos técnicos relacionados ao desenvolvimento de software, IA e automações.
 
 ---
 
