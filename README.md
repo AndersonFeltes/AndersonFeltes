@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Anderson Mateus Feltes
 
-🎯 **Desenvolvedor de Software Júnior** com experiência prática em desenvolvimento web, suporte técnico e soluções com inteligência artificial.
+🎯 **Desenvolvedor de Software** com experiência prática em desenvolvimento web, suporte técnico e soluções com inteligência artificial.
 
 💻 Atualmente atuo em uma empresa focada em **IA**, contribuindo com:
 - desenvolvimento de **agentes de IA**
