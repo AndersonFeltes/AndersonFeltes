@@ -58,11 +58,11 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img
-    height="170"
-    src="https://github-readme-streak-stats.herokuapp.com?user=AndersonFeltes&theme=github-dark&hide_border=true"
-    alt="GitHub Streak de Anderson Feltes"
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AndersonFeltes&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonFeltes&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 </div>
 
 <p align="center">
