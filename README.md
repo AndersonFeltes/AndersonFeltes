@@ -58,18 +58,20 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AndersonFeltes&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndersonFeltes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/AndersonFeltes)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonFeltes&layout=compact&theme=github_dark)](https://github.com/AndersonFeltes)
+
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonFeltes&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-</div>
+  
+<a href="https://github.com/AndersonFeltes?tab=repositories">📁 Ver meus repositórios</a> •
+<a href="https://github.com/AndersonFeltes?tab=stars">⭐ Ver projetos com estrelas</a> •
+<a href="https://github.com/AndersonFeltes">👤 Ver perfil completo</a>
 
-<p align="center">
-  <a href="https://github.com/AndersonFeltes?tab=repositories">📁 Ver meus repositórios</a> •
-  <a href="https://github.com/AndersonFeltes?tab=stars">⭐ Ver projetos com estrelas</a> •
-  <a href="https://github.com/AndersonFeltes">👤 Ver perfil completo</a>
-</p>
+</div>
 
 ---
 
@@ -82,7 +84,7 @@ Aqui no GitHub compartilho projetos, estudos e experimentos técnicos relacionad
 
 ## 📫 Contato
 
-<div>
+<div align="center">
   <a href="mailto:andermateus8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
