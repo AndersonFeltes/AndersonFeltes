@@ -51,7 +51,7 @@
 
 ## 📚 Formação
 
-🎓 Técnico em Informática em andamento pelo **CIMOL (ETEML)**.
+🎓 Técnico em Informática pelo **CIMOL**.
 
 ---
 
