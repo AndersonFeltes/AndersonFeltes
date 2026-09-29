@@ -59,9 +59,11 @@
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndersonFeltes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/AndersonFeltes)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndersonFeltes&theme=github_dark)](https://github.com/AndersonFeltes)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonFeltes&layout=compact&theme=github_dark)](https://github.com/AndersonFeltes)
+[![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndersonFeltes&theme=github_dark)](https://github.com/AndersonFeltes)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AndersonFeltes&theme=github-dark-blue)](https://github.com/AndersonFeltes)
 
 </div>
 
